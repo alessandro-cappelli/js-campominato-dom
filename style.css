@@ -1,0 +1,22 @@
+.ms_row_header{
+    align-items: center;
+}
+
+main{
+    background-color: #7FFFD4;
+}
+
+.ms_container_main{
+    width: 45%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.box{
+    height: 80px;
+    width: 80px;
+    background-color: #7FFFD4;
+    display: inline-block;
+    border: 1px solid black;
+    cursor: pointer;
+}
